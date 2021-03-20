@@ -1,0 +1,17 @@
+Jenis Kopi,Jumlah,Harga,Penjualan
+Expresso,70,35000,No
+Americano,30,35000,Yes
+Macchiato,30,65000,No
+Cappuchino,65,50000,No
+Americano,45,45000,Yes
+Macchiato,35,,Yes
+Cappuchino,55,60000,No
+Expresso,0,85000,Yes
+Americano,85,40000,No
+Expresso,80,65000,Yes
+Macchiato,,55000,No
+Cappuchino,45,40000,Yes
+Expresso,110,70000,No
+Macchiato,75,,Yes
+Cappuchino,85,50000,No
+Americano,150,30000,Yes
